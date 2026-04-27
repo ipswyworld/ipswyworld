@@ -14,7 +14,7 @@
 
 ---
 
-## ????? About & Focus
+## 👨‍💻 About & Focus
 
 <table>
 <tr>
@@ -23,19 +23,19 @@
 **I build systems at the intersection of blockchain, data, and intelligent software.**
 Focused on practical infrastructure, clean engineering, and products that actually survive contact with reality.
 
-- ?? **Blockchain:** Protocol engineering & Smart Contracts
-- ?? **Data & AI:** Machine learning workflows & applied AI
-- ??? **Full-Stack:** End-to-end development for real products
-- ?? **Currently Building:** [Ouroboros Network](https://github.com/ouroboros-network)
+- ⛓️ **Blockchain:** Protocol engineering & Smart Contracts
+- 🧠 **Data & AI:** Machine learning workflows & applied AI
+- 🛠️ **Full-Stack:** End-to-end development for real products
+- 🌐 **Currently Building:** [Ouroboros Network](https://github.com/ouroboros-network)
 
 </td>
 <td width="45%">
 
-### ?? What I care about
-- ??? Strong, scalable architecture
-- ?? Security and zero-downtime reliability
-- ? Flawless developer experience
-- ?? Shipping useful, robust systems
+### 🎯 What I care about
+- 🏗️ Strong, scalable architecture
+- 🔒 Security and zero-downtime reliability
+- ⚡ Flawless developer experience
+- 🚢 Shipping useful, robust systems
 
 </td>
 </tr>
@@ -43,7 +43,7 @@ Focused on practical infrastructure, clean engineering, and products that actual
 
 ---
 
-## ?? Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,rust,typescript,javascript,react,nextjs,nodejs,fastapi,docker,postgres,linux,git,aws&perline=13" />
@@ -53,7 +53,7 @@ Focused on practical infrastructure, clean engineering, and products that actual
 
 ---
 
-## ?? Featured Work & Trophies
+## 🏆 Featured Work & Trophies
 
 <p align="center">
   <a href="https://github.com/ipswyworld">
@@ -63,36 +63,36 @@ Focused on practical infrastructure, clean engineering, and products that actual
 
 <p align="center">
   <a href="https://github.com/ouroboros-network">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ouroboros-network&repo=ouroboros&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=0ea5e9&border_color=1e293b&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ouroboros-network&repo=ouroboros&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/ipswyworld/ouroboros">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipswyworld&repo=ouroboros&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=0ea5e9&border_color=1e293b&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipswyworld&repo=ouroboros&theme=radical&hide_border=true" />
   </a>
 </p>
 
 ---
 
-## ??? My Git City
+## 🏙️ My Git City
 <p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="My Git City" />
+  <img src="https://raw.githubusercontent.com/ipswyworld/ipswyworld/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="My Git City" />
 </p>
 
 ---
 
-## ?? GitHub Metrics
+## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ipswyworld&show_icons=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=0ea5e9&border_color=1e293b&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipswyworld&background=0f172a&ring=38bdf8&fire=0ea5e9&currStreakNum=ffffff&sideNums=94a3b8&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=94a3b8&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ipswyworld&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipswyworld&theme=radical&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ipswyworld&bg_color=0f172a&color=38bdf8&line=0ea5e9&point=ffffff&area_color=1e293b&area=true&hide_border=true&custom_title=Contributions%20Graph" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ipswyworld&theme=react-dark&hide_border=true&area=true&custom_title=Contributions%20Graph" alt="activity graph" />
 </p>
 
 ---
 
-## ?? Contribution Snake
+## 🐍 Contribution Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ipswyworld/ipswyworld/output/github-contribution-grid-snake-dark.svg">
@@ -103,7 +103,7 @@ Focused on practical infrastructure, clean engineering, and products that actual
 
 ---
 
-## ?? Connect
+## 🤝 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/joseph-njoroge-kariuki-5027591ab">
@@ -118,5 +118,5 @@ Focused on practical infrastructure, clean engineering, and products that actual
 </p>
 
 <p align="center">
-  <i>Built with discipline, curiosity, and the usual amount of human overconfidence. ??</i>
+  <i>Built with discipline, curiosity, and the usual amount of human overconfidence. 🚀</i>
 </p>
