@@ -82,7 +82,7 @@ Focused on practical infrastructure, clean engineering, and products that actual
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ipswyworld&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ipswyworld&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&count_private=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipswyworld&theme=radical&hide_border=true" height="180" />
 </p>
 
