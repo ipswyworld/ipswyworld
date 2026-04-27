@@ -14,7 +14,7 @@
 
 ---
 
-## ????? About & Focus
+## 👨‍💻 About & Focus
 
 <table>
 <tr>
@@ -23,19 +23,19 @@
 **I build systems at the intersection of blockchain, data, and intelligent software.**
 Focused on practical infrastructure, clean engineering, and products that actually survive contact with reality.
 
-- ?? **Blockchain:** Protocol engineering & Smart Contracts
-- ?? **Data & AI:** Machine learning workflows & applied AI
-- ??? **Full-Stack:** End-to-end development for real products
-- ?? **Currently Building:** [Ouroboros Network](https://github.com/ouroboros-network)
+- ⛓️ **Blockchain:** Protocol engineering & Smart Contracts
+- 🧠 **Data & AI:** Machine learning workflows & applied AI
+- 🛠️ **Full-Stack:** End-to-end development for real products
+- 🌐 **Currently Building:** [Ouroboros Network](https://github.com/ouroboros-network)
 
 </td>
 <td width="45%">
 
-### ?? What I care about
-- ??? Strong, scalable architecture
-- ?? Security and zero-downtime reliability
-- ? Flawless developer experience
-- ?? Shipping useful, robust systems
+### 🎯 What I care about
+- 🏗️ Strong, scalable architecture
+- 🔒 Security and zero-downtime reliability
+- ⚡ Flawless developer experience
+- 🚢 Shipping useful, robust systems
 
 </td>
 </tr>
@@ -43,7 +43,7 @@ Focused on practical infrastructure, clean engineering, and products that actual
 
 ---
 
-## ?? Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,rust,typescript,javascript,react,nextjs,nodejs,fastapi,docker,postgres,linux,git,aws&perline=13" />
@@ -53,7 +53,7 @@ Focused on practical infrastructure, clean engineering, and products that actual
 
 ---
 
-## ?? Featured Work & Impact
+## 🏆 Featured Work & Impact
 
 <p align="center">
   <a href="https://github.com/ipswyworld">
@@ -81,7 +81,7 @@ Focused on practical infrastructure, clean engineering, and products that actual
 
 ---
 
-## ?? Productivity & Activity
+## 📊 Productivity & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ipswyworld&theme=radical&layout=compact&hide_border=true" alt="WakaTime Stats" />
@@ -94,14 +94,14 @@ Focused on practical infrastructure, clean engineering, and products that actual
 
 ---
 
-## ??? My Git City
+## 🏙️ My Git City
 <p align="center">
   <img src="https://raw.githubusercontent.com/ipswyworld/ipswyworld/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="My Git City" />
 </p>
 
 ---
 
-## ?? Contribution Snake
+## 🐍 Contribution Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ipswyworld/ipswyworld/output/github-contribution-grid-snake-dark.svg">
@@ -112,7 +112,7 @@ Focused on practical infrastructure, clean engineering, and products that actual
 
 ---
 
-## ?? Connect
+## 🤝 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/joseph-njoroge-kariuki-5027591ab">
@@ -127,5 +127,5 @@ Focused on practical infrastructure, clean engineering, and products that actual
 </p>
 
 <p align="center">
-  <i>Built with discipline, curiosity, and the usual amount of human overconfidence. ??</i>
+  <i>Built with discipline, curiosity, and the usual amount of human overconfidence. 🚀</i>
 </p>
